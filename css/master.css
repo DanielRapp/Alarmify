@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 30px;
+}
+
+#main {
+  margin: 0px auto;
+  padding: 0px;
+  padding-top: 20px;
+
+  text-align: center;
+  width: 400px;
+  height: 410px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 30px;
+  border: 0px;
+}
+
+#countdown {
+  border: none;
+  margin-top: 50px;
+  background: none;
+}

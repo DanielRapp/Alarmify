@@ -1,0 +1,20 @@
+{
+  "BundleType": "Application",
+  "BundleIdentifier": "alarmify",
+  "AppIcon": {
+    "18x18": "img/icon.png"
+  },
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "AppName": {
+    "en": "Alarmify"
+  },
+  "SupportedLanguages": [
+    "en"
+  ],
+  "RequiredPermissions": [
+    "https://www.googleapis.com"
+  ]
+}
