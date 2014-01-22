@@ -1,15 +1,15 @@
-#Quizzle
-This is a Spotify app that tests your knowledge of album covers in your library.
+#Alarmify
+This Spotify app wakes you up with pleasant music at a specified time.
 
-Note that you need to have a [Spotify developer account](https://developer.spotify.com/).
+Note that you need to have a [Spotify developer account](https://developer.spotify.com/) to run it.
 
-![Screenshot of the app](http://i.imgur.com/GUWpb.png)
+![Screenshot of the app](http://i.imgur.com/bYVqom8.png)
 
 ##Installation
 ###Mac/Unix
 Just run this command:
 
-    git clone git://github.com/DanielRapp/Quizzle.git ~/Spotify/Quizzle; open spotify:app:quizzle
+    git clone git://github.com/DanielRapp/Alarmify.git ~/Spotify/Alarmify; open spotify:app:alarmify
 
 ###Windows
 
@@ -17,7 +17,7 @@ Just run this command:
 
 2. Download this app and place it in the Spotify folder.
 
-3. Visit this link: [spotify:app:quizzle](spotify:app:quizzle)
+3. Paste the following uri into your Spotify searchbar: [spotify:app:alarmify](spotify:app:alarmify)
 
 ---
 Don't forget to add the application to the sidebar!
